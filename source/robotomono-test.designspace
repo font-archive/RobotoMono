@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400">
+      <labelname xml:lang="en">Weight</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="RobotoMono-Thin.ufo" familyname="Roboto Mono" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="RobotoMono-Regular.ufo" familyname="Roboto Mono" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="RobotoMono-Bold.ufo" familyname="Roboto Mono" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Roboto Mono" stylename="Light" filename="instances/Roboto Mono-Light.ufo">
+      <location>
+        <dimension name="Weight" xvalue="175"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Mono" stylename="Medium" filename="instances/Roboto Mono-Medium.ufo">
+      <location>
+        <dimension name="Weight" xvalue="650"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>
