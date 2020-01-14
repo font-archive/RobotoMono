@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beta" format="2">
+  <advance width="1229.0"/>
+  <unicode hex="03B2"/>
+  <outline>
+    <contour>
+      <point x="630.02" y="1476.58" type="qcurve" smooth="yes"/>
+      <point x="731.66" y="1476.58"/>
+      <point x="897.78" y="1421.32"/>
+      <point x="956.68" y="1370.48" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1015.0" y="1318.64"/>
+      <point x="1078.9" y="1172.9"/>
+      <point x="1078.9" y="1082.42" type="qcurve" smooth="yes"/>
+      <point x="1078.9" y="1019.78"/>
+      <point x="1036.0" y="907.82"/>
+      <point x="996.1" y="863.5" type="qcurve" smooth="yes"/>
+      <point x="974.68" y="839.66"/>
+      <point x="921.42" y="797.82"/>
+      <point x="890.58" y="781.4" type="qcurve"/>
+      <point x="937.06" y="764.82"/>
+      <point x="1014.12" y="716.92"/>
+      <point x="1043.7" y="685.6" type="qcurve" smooth="yes"/>
+      <point x="1092.64" y="635.92"/>
+      <point x="1144.0" y="500.3"/>
+      <point x="1144.0" y="418.78" type="qcurve" smooth="yes"/>
+      <point x="1144.0" y="313.52"/>
+      <point x="1078.9" y="149.68"/>
+      <point x="1019.64" y="93.84" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="960.38" y="37.42"/>
+      <point x="794.38" y="-21.0"/>
+      <point x="694.06" y="-21.0" type="qcurve" smooth="yes"/>
+      <point x="651.74" y="-21.0"/>
+      <point x="564.94" y="-8.26"/>
+      <point x="523.62" y="4.9" type="qcurve" smooth="yes"/>
+      <point x="492.0" y="15.32"/>
+      <point x="431.02" y="45.36"/>
+      <point x="403.5" y="65.14" type="qcurve"/>
+      <point x="403.5" y="-394.44" type="line"/>
+      <point x="164.72" y="-394.44" type="line"/>
+      <point x="164.72" y="1052.7" type="line" smooth="yes"/>
+      <point x="164.72" y="1143.98"/>
+      <point x="238.62" y="1299.68"/>
+      <point x="302.52" y="1356.42" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="365.42" y="1412.58"/>
+      <point x="533.96" y="1476.58"/>
+    </contour>
+    <contour>
+      <point x="626.02" y="858.58" type="line" smooth="yes"/>
+      <point x="680.16" y="858.58"/>
+      <point x="759.66" y="886.78"/>
+      <point x="785.6" y="912.72" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="813.86" y="940.4"/>
+      <point x="839.96" y="1022.08"/>
+      <point x="839.96" y="1073.08" type="qcurve" smooth="yes"/>
+      <point x="839.96" y="1113.86"/>
+      <point x="813.18" y="1189.42"/>
+      <point x="786.82" y="1218.36" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="759.88" y="1247.3"/>
+      <point x="681.06" y="1282.66"/>
+      <point x="630.02" y="1282.66" type="qcurve" smooth="yes"/>
+      <point x="581.4" y="1282.66"/>
+      <point x="498.58" y="1248.88"/>
+      <point x="468.64" y="1218.36" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="438.28" y="1187.84"/>
+      <point x="403.5" y="1103.38"/>
+      <point x="403.5" y="1052.7" type="qcurve" smooth="yes"/>
+      <point x="403.5" y="257.6" type="line"/>
+      <point x="423.34" y="238.4"/>
+      <point x="473.28" y="207.84"/>
+      <point x="502.8" y="196.9" type="qcurve" smooth="yes"/>
+      <point x="534.74" y="184.96"/>
+      <point x="609.4" y="171.76"/>
+      <point x="651.28" y="171.76" type="qcurve" smooth="yes"/>
+      <point x="710.74" y="171.76"/>
+      <point x="805.56" y="208.96"/>
+      <point x="837.92" y="242.16" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="870.28" y="274.94"/>
+      <point x="905.06" y="365.7"/>
+      <point x="905.06" y="418.84" type="qcurve" smooth="yes"/>
+      <point x="905.06" y="471.84"/>
+      <point x="874.54" y="565.14"/>
+      <point x="845.02" y="600.34" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="814.92" y="634.54"/>
+      <point x="727.46" y="675.26"/>
+      <point x="671.1" y="675.26" type="qcurve" smooth="yes"/>
+      <point x="551.88" y="675.26" type="line"/>
+      <point x="551.88" y="858.58" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400">
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="500">
       <labelname xml:lang="en">Weight</labelname>
     </axis>
   </axes>
@@ -12,8 +12,12 @@
       </location>
     </source>
     <source filename="RobotoMono-Regular.ufo" familyname="Roboto Mono" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
       <location>
-        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Weight" xvalue="500"/>
       </location>
     </source>
     <source filename="RobotoMono-Bold.ufo" familyname="Roboto Mono" stylename="Bold">
@@ -25,14 +29,14 @@
   <instances>
     <instance familyname="Roboto Mono" stylename="Light" filename="instances/Roboto Mono-Light.ufo">
       <location>
-        <dimension name="Weight" xvalue="175"/>
+        <dimension name="Weight" xvalue="300"/>
       </location>
       <kerning/>
       <info/>
     </instance>
     <instance familyname="Roboto Mono" stylename="Medium" filename="instances/Roboto Mono-Medium.ufo">
       <location>
-        <dimension name="Weight" xvalue="650"/>
+        <dimension name="Weight" xvalue="732"/>
       </location>
       <kerning/>
       <info/>

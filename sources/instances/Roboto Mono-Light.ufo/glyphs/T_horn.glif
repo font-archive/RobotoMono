@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="1229.0"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="310.5" y="1456.0" type="line"/>
+      <point x="310.5" y="1153.0" type="line"/>
+      <point x="634.5" y="1153.0" type="line" smooth="yes"/>
+      <point x="738.5" y="1152.5"/>
+      <point x="911.0" y="1094.0"/>
+      <point x="973.0" y="1040.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1035.0" y="986.0"/>
+      <point x="1103.5" y="833.0"/>
+      <point x="1103.5" y="738.0" type="qcurve" smooth="yes"/>
+      <point x="1103.5" y="643.0"/>
+      <point x="1035.0" y="490.0"/>
+      <point x="973.0" y="436.25" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="911.0" y="382.5"/>
+      <point x="738.5" y="324.0"/>
+      <point x="634.5" y="323.5" type="qcurve" smooth="yes"/>
+      <point x="310.5" y="323.5" type="line"/>
+      <point x="310.5" y="0.0" type="line"/>
+      <point x="191.0" y="0.0" type="line"/>
+      <point x="191.0" y="1456.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="310.5" y="1050.0" type="line"/>
+      <point x="310.5" y="426.5" type="line"/>
+      <point x="634.5" y="426.5" type="line" smooth="yes"/>
+      <point x="712.0" y="427.0"/>
+      <point x="840.5" y="472.5"/>
+      <point x="886.75" y="513.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="933.0" y="554.5"/>
+      <point x="984.0" y="667.5"/>
+      <point x="984.0" y="736.0" type="qcurve" smooth="yes"/>
+      <point x="984.0" y="805.5"/>
+      <point x="933.5" y="920.0"/>
+      <point x="887.75" y="961.75" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="842.0" y="1003.5"/>
+      <point x="713.0" y="1049.5"/>
+      <point x="634.5" y="1050.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

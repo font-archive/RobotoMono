@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="amacron" format="2">
+  <advance width="1229.0"/>
+  <unicode hex="0101"/>
+  <outline>
+    <component base="a"/>
+    <component base="macron" xOffset="-16.319999999999997" yOffset="3.3600000000000003"/>
+  </outline>
+</glyph>

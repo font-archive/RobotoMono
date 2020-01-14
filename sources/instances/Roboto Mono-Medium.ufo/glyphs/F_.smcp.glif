@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F.smcp" format="2">
+  <advance width="1229.0"/>
+  <outline>
+    <contour>
+      <point x="1003.54" y="476.96" type="line"/>
+      <point x="437.5" y="476.96" type="line"/>
+      <point x="437.5" y="0.0" type="line"/>
+      <point x="194.46" y="0.0" type="line"/>
+      <point x="194.46" y="1165.0" type="line"/>
+      <point x="1078.04" y="1165.0" type="line"/>
+      <point x="1078.04" y="971.4" type="line"/>
+      <point x="437.5" y="971.4" type="line"/>
+      <point x="437.5" y="670.56" type="line"/>
+      <point x="1003.54" y="670.56" type="line"/>
+    </contour>
+  </outline>
+</glyph>

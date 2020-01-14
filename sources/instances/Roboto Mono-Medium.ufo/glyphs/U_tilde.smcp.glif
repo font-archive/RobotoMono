@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Utilde.smcp" format="2">
+  <advance width="1229.0"/>
+  <outline>
+    <component base="U.smcp"/>
+    <component base="tilde" xOffset="154.3" yOffset="59.26"/>
+  </outline>
+</glyph>

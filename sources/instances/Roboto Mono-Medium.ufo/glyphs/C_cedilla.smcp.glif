@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ccedilla.smcp" format="2">
+  <advance width="1229.0"/>
+  <outline>
+    <component base="C.smcp"/>
+    <component base="cedilla" xOffset="29.240000000000002" yOffset="-1.2600000000000002"/>
+  </outline>
+</glyph>

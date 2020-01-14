@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omacron.smcp" format="2">
+  <advance width="1229.0"/>
+  <outline>
+    <component base="O.smcp"/>
+    <component base="macron" xOffset="-1.019999999999996" yOffset="25.82"/>
+  </outline>
+</glyph>
